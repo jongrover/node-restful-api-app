@@ -1,0 +1,15 @@
+{
+  "name": "restful",
+  "description": "A RESTful app example using mongo, node, express, and node-restful",
+  "author": "Matt Hoiland",
+  "respository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest",
+    "node-restful": "latest"
+  }
+}
